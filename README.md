@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![](https://raw.githubusercontent.com/samkessaram/samkessaram/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+I'm Sam. A bit about me:
+
+- 🖥 Working at [Zensurance](https://www.zensurance.com/)
+- 🇨🇦 Living in Toronto
+- ⛰ Climbing rocks
 
 
 <!--
