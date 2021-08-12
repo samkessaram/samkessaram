@@ -2,8 +2,9 @@
 
 I'm Sam. A bit about me:
 
-- 🖥 Working at [Zensurance](https://www.zensurance.com/)
+- 🇧🇲 From Bermuda
 - 🇨🇦 Living in Toronto
+- 🖥 Working at [Zensurance](https://www.zensurance.com/)
 - ⛰ Climbing rocks
 
 
