@@ -3,7 +3,7 @@
 I'm Sam. A bit about me:
 
 - 🇧🇲 From Bermuda
-- 🇨🇦 Living in Toronto
+- 🇨🇦 Living in Canada
 - 🖥 Working at [Zensurance](https://www.zensurance.com/)
 - ⛰ Climbing rocks
 
